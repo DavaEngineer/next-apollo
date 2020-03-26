@@ -1,0 +1,32 @@
+{
+  "name": "next-apollo",
+  "version": "1.0.0",
+  "description": "next-apollo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavaEngineer/next-apollo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavaEngineer/next-apollo/issues"
+  },
+  "homepage": "https://github.com/DavaEngineer/next-apollo#readme",
+  "dependencies": {
+    "next": "^9.3.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.31",
+    "@types/react": "^16.9.25",
+    "typescript": "^3.8.3"
+  }
+}
